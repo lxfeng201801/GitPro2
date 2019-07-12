@@ -7,5 +7,6 @@ public class GitTest {
 		 System.out.println("linegit1:"); 
 		 System.out.println("linegit2:");
 		 System.out.println("linegit3:");
+		 System.out.println("linegit4idea:");
 	}
 }
